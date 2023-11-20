@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "articleImage": "images/sushi.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "How to prepare a delicious gluten free sushi"
+  },
+  {
+    "id": 2,
+    "articleImage": "images/pastry.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "How to prepare a delicious gluten free sushi"
+  },
+  {
+    "id": 3,
+    "articleImage": "images/fries.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "How to prepare the perfect fries in an air fryer"
+  },
+  {
+    "id": 4,
+    "articleImage": "images/chicken-tenders.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "How to prepare delicious chicken tenders"
+  },
+  {
+    "id": 5,
+    "articleImage": "images/gadget.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "5 great cooking gadgets you can buy to save time"
+  },
+  {
+    "id": 6,
+    "articleImage": "images/burger-3.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "The secret tips & tricks to prepare a perfect burger"
+  },
+  {
+    "id": 7,
+    "articleImage": "images/cheesecake.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "7 delicious cheesecake recipes you can prepare"
+  },
+
+  {
+    "id": 8,
+    "articleImage": "images/pizza-3.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "5 great pizza restaurants you should visit this city"
+  },
+  {
+    "id": 9,
+    "articleImage": "images/gadget-2.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "5 recipes to create a stunning chocolate icecream"
+  },
+  {
+    "id": 10,
+    "articleImage": "images/burrito.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "How to prepare a delicious gluten free sushi"
+  },
+  {
+    "id": 11,
+    "articleImage": "images/pasta.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "Top 20 simple and healthy pasta to make"
+  },
+  {
+    "id": 12,
+    "articleImage": "images/desserts.png",
+    "dateAdded": "January 2023",
+    "articleTitle": "Top 20 simple and quick desserts for kids"
+  }
+]

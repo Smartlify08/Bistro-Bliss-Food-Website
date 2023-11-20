@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "category": "breakfast",
+    "price": 9.99,
+    "image": "images/friedeggs.png",
+    "foodName": "Fried eggs",
+    "foodDescription": "Made with eggs, lettuce, salt, oil and other ingredients."
+  },
+  {
+    "id": 2,
+    "category": "main dishes",
+    "price": 15.99,
+    "image": "images/pizza2.png",
+    "foodName": "Hawaiian pizza",
+    "foodDescription": "Made with eggs, lettuce, salt, oil and other ingredients."
+  },
+  {
+    "id": 3,
+    "category": "drinks",
+    "price": 7.25,
+    "image": "images/cocktail.png",
+    "foodName": "Martinez Cocktail",
+    "foodDescription": "Made with eggs, lettuce, salt, oil and other ingredients."
+  },
+  {
+    "id": 4,
+    "category": "desserts",
+    "price": 20.99,
+    "image": "images/butter_cake.png",
+    "foodName": "Butterscotch cake",
+    "foodDescription": "Made with eggs, lettuce, salt, oil and other ingredients."
+  },
+  {
+    "id": 5,
+    "category": "drinks",
+    "price": 5.89,
+    "image": "images/smoothie.png",
+    "foodName": "mint lemonade",
+    "foodDescription": "Made with eggs, lettuce, salt, oil and other ingredients."
+  },
+  {
+    "id": 6,
+    "category": "desserts",
+    "price": 18.05,
+    "image": "images/icecream.png",
+    "foodName": "Chocolate icecream",
+    "foodDescription": "Made with eggs, lettuce, salt, oil and other ingredients."
+  },
+  {
+    "id": 7,
+    "category": "main dishes",
+    "price": 12.55,
+    "image": "images/burger-2.png",
+    "foodName": "Cheese burger",
+    "foodDescription": "Made with eggs, lettuce, salt, oil and other ingredients."
+  },
+  {
+    "id": 8,
+    "category": "desserts",
+    "price": 12.99,
+    "image": "images/waffles.png",
+    "foodName": "classic waffles",
+    "foodDescription": "Made with eggs, lettuce, salt, oil and other ingredients."
+  }
+]
