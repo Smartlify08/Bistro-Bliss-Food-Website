@@ -1216,10 +1216,11 @@ textarea::placeholder {
 }
 
 .contact-info .container-sm {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-items: center;
 }
-
 .contact-info h4 {
   font-size: 20px;
   font-weight: 600;
@@ -1806,6 +1807,58 @@ footer .display {
   }
   /* Blog page ends */
 
+  /* Contact page start */
+  .contact-text h1 {
+    font-size: 36px;
+    line-height: 1.2;
+    margin-bottom: 5px;
+  }
+
+  .contact-text p {
+    font-size: 16px;
+    width: 90%;
+    margin-bottom: 10px;
+  }
+
+  .contact .contact-form {
+    bottom: 0px;
+  }
+
+  .contact .contact-form .inputs {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .contact-form form textarea {
+    min-width: 100%;
+    resize: none;
+  }
+
+  .contact-info .container-sm {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    justify-items: center;
+  }
+
+  .contact-info {
+    padding: 5rem 0;
+  }
+
+  .contact-info .phone p {
+    font-size: 20px;
+  }
+
+  .contact-info h4 {
+    margin-bottom: 10px;
+  }
+
+  .contact-info p,
+  .contact-info h4 {
+    text-align: center;
+  }
+  /* Contact page end */
+
   footer .container {
     grid-template-columns: repeat(1, 1fr);
     justify-items: center;
@@ -2028,6 +2081,16 @@ footer .display {
   .blogs-grid {
     grid-template-columns: repeat(3, 1fr);
   }
+
+  /* Contact page start */
+  .contact-info .container-sm {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    justify-items: center;
+  }
+
+  /* Contact page end */
   /* Blog page ends */
   footer .container {
     padding: 0 2rem;
@@ -2137,6 +2200,10 @@ footer .display {
     font-size: 16px;
   }
   /* Blog page ends */
+
+  /* Contact info start */
+
+  /* Contact info end */
 
   footer .container {
     grid-template-columns: repeat(3, 1fr);
